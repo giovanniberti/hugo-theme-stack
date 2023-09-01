@@ -20,12 +20,18 @@ $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
 ## Block math
 
 $$
-    \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+    \begin{align*}
+        2x + 1 &= 0 \\
+        2x + 1 &= 0 
+    \end{align*}
 $$
 
 ```markdown
 $$
-    \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+    \begin{align*}
+        2x + 1 &= 0 \\
+        2x + 1 &= 0 
+    \end{align*}
 $$
 ```
 
